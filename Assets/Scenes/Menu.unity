@@ -1069,7 +1069,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &377176766
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2295,7 +2295,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &531185876
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3470,7 +3470,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u2022 MUSICA:\nMARIA CECILIA\n"
+  m_text: "\u2022 MUSICA:\nmarcos justos\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ac55829821ff4414d8549b664d441dc7, type: 2}
   m_sharedMaterial: {fileID: 5298139450875950916, guid: ac55829821ff4414d8549b664d441dc7, type: 2}
@@ -4740,7 +4740,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: MARIA CECILIA
+  m_text: marcos aurelio
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ac55829821ff4414d8549b664d441dc7, type: 2}
   m_sharedMaterial: {fileID: 5298139450875950916, guid: ac55829821ff4414d8549b664d441dc7, type: 2}
@@ -5512,7 +5512,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u2022 ARTE:\nMARIA CECILIA\n"
+  m_text: "\u2022 ARTE:\nmarcos beta"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ac55829821ff4414d8549b664d441dc7, type: 2}
   m_sharedMaterial: {fileID: 5298139450875950916, guid: ac55829821ff4414d8549b664d441dc7, type: 2}
@@ -8408,7 +8408,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u2022 PROGRAMcAO:\nMARIA CECILIA"
+  m_text: "\u2022 PROGRAMcAO:\nmarcos aura"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ac55829821ff4414d8549b664d441dc7, type: 2}
   m_sharedMaterial: {fileID: 5298139450875950916, guid: ac55829821ff4414d8549b664d441dc7, type: 2}
